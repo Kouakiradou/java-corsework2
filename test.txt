@@ -1,0 +1,23 @@
+{"patients":
+[{
+    "ID": "3e9fd20e-b81c-4698-a7c2-0559e10361fa",
+    "BIRTHDATE": "1979-08-24",
+    "DEATHDATE": "",
+    "SSN": "999-46-5746",
+    "DRIVERS": "S99951588",
+    "PASSPORT": "X43863756X",
+    "PREFIX": "Mrs.",
+    "FIRST": "Norah104",
+    "LAST": "Stamm704",
+    "SUFFIX": "",
+    "MAIDEN": "Hagenes547",
+    "MARITAL": "M",
+    "RACE": "white",
+    "ETHNICITY": "french",
+    "GENDER": "F",
+    "BIRTHPLACE": "Hanover  Massachusetts  US",
+    "ADDRESS": "678 Trantow Overpass",
+    "CITY": "New Bedford",
+    "STATE": "Massachusetts",
+    "ZIP": "02740"
+}
